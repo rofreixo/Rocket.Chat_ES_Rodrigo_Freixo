@@ -1,0 +1,71 @@
+''{
+    "status": "success",
+    "data": {
+        "userId": "LkumWwWN6FLLhm5Xa",
+        "authToken": "60me-ITLMVMi__LEQAXaRe7yvHk-IhV2hDZD0v1vzfc",
+        "me": {
+            "_id": "LkumWwWN6FLLhm5Xa",
+            "services": {
+                "password": {
+                    "bcrypt": "$2b$10$8qY23WkAvV8Bt1okE6Y.Mu5IiCN9KtLQyF1coo06wGxwjkRFX.97S"
+                },
+                "email2fa": {
+                    "enabled": true
+                }
+            },
+            "emails": [
+                {
+                    "address": "rofreixo@gmail.com",
+                    "verified": false
+                }
+            ],
+            "status": "online",
+            "active": true,
+            "_updatedAt": "2023-02-03T13:42:57.868Z",
+            "roles": [
+                "user",
+                "admin"
+            ],
+            "name": "Rodrigo Freixo",
+            "statusConnection": "online",
+            "username": "rofreixo",
+            "utcOffset": -3,
+            "settings": {
+                "profile": {},
+                "preferences": {
+                    "enableAutoAway": true,
+                    "idleTimeLimit": 300,
+                    "desktopNotificationRequireInteraction": false,
+                    "desktopNotifications": "all",
+                    "pushNotifications": "all",
+                    "unreadAlert": true,
+                    "useEmojis": true,
+                    "convertAsciiEmoji": true,
+                    "autoImageLoad": true,
+                    "saveMobileBandwidth": true,
+                    "collapseMediaByDefault": false,
+                    "hideUsernames": false,
+                    "hideRoles": false,
+                    "hideFlexTab": false,
+                    "displayAvatars": true,
+                    "sidebarGroupByType": true,
+                    "sidebarViewMode": "extended",
+                    "sidebarDisplayAvatar": true,
+                    "sidebarShowUnread": false,
+                    "sidebarSortby": "activity",
+                    "alsoSendThreadToChannel": "default",
+                    "sidebarShowFavorites": true,
+                    "sendOnEnter": "normal",
+                    "messageViewMode": 0,
+                    "emailNotificationMode": "mentions",
+                    "newRoomNotification": "door",
+                    "newMessageNotification": "chime",
+                    "muteFocusedConversations": true,
+                    "notificationsSoundVolume": 100,
+                    "useLegacyMessageTemplate": false
+                }
+            },
+            "avatarUrl": "http://192.168.86.163:3000/avatar/rofreixo"
+        }
+    }
+}''
