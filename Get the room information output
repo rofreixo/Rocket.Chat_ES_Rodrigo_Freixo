@@ -1,0 +1,41 @@
+{
+    "room": {
+        "_id": "GENERAL",
+        "ts": "2023-01-27T02:26:27.006Z",
+        "t": "c",
+        "name": "general",
+        "usernames": [],
+        "msgs": 7,
+        "usersCount": 3,
+        "default": true,
+        "_updatedAt": "2023-02-03T13:45:29.800Z",
+        "lastMessage": {
+            "_id": "pAsPX3TGTtceyWea8",
+            "rid": "GENERAL",
+            "msg": "oi",
+            "ts": "2023-01-27T03:04:50.512Z",
+            "u": {
+                "_id": "LkumWwWN6FLLhm5Xa",
+                "username": "rofreixo",
+                "name": "Rodrigo Freixo"
+            },
+            "_updatedAt": "2023-01-27T03:04:50.542Z",
+            "urls": [],
+            "mentions": [],
+            "channels": [],
+            "md": [
+                {
+                    "type": "PARAGRAPH",
+                    "value": [
+                        {
+                            "type": "PLAIN_TEXT",
+                            "value": "oi"
+                        }
+                    ]
+                }
+            ]
+        },
+        "lm": "2023-01-27T03:04:50.512Z"
+    },
+    "success": true
+}
